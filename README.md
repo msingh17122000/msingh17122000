@@ -15,7 +15,7 @@ Feel free to check out the website and give me feedback for improvements!
 > — *Ratatouille*
 
 
-### ⚡ Tech Stack and Tools i use
+### ⚡ Tech Stack and Tools I Use
 
 My tech stack **ain't that great**, but here's what I use to build awesome things:
 
@@ -24,4 +24,10 @@ My tech stack **ain't that great**, but here's what I use to build awesome thing
 - **Express.js** to handle routing and middleware with ease
 - **MongoDB** for flexible, scalable NoSQL database solutions
 
-I keep things simple, but they work! 💻
+### 🛠 Tools I Use
+
+- **Figma** for designing beautiful user interfaces
+- **Postman** for testing APIs and ensuring smooth integration
+- **MongoDB Compass** for managing and visualizing MongoDB data
+
+I keep things simple, but they work! ✨
