@@ -19,15 +19,14 @@ Feel free to check out the website and give me feedback for improvements!
 
 My tech stack **ain't that great**, but here's what I use to build awesome things:
 
-- **React.js** for building dynamic user interfaces
-- **Node.js** for building scalable server-side applications
-- **Express.js** to handle routing and middleware with ease
-- **MongoDB** for flexible, scalable NoSQL database solutions
+- **React.js** for UI
+- **Node.js & Express.js** for server-side
+- **MongoDB** for database
 
-### 🛠 Tools I Use
+### 🛠 Tools
 
-- **Figma** for designing beautiful user interfaces
-- **Postman** for testing APIs and ensuring smooth integration
-- **MongoDB Compass** for managing and visualizing MongoDB data
+- **Figma** for design
+- **Postman** for API testing
+- **MongoDB Compass** for database management
 
 I keep things simple, but they work! ✨
