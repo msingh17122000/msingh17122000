@@ -5,7 +5,7 @@ I’m a **designer and developer** who loves creating beautiful, user-friendly e
 From designing minimal interfaces to building creative & robust web applications, I enjoy turning ideas into reality.<br/>
 Oh, and I’m all about **minimalism** — simplicity inspires me!
 
-### My Favourite Movie Quote
+### 🔖 My Favourite Movie Quote
 
 > "Anyone can cook, but only the fearless can be great."  
 > — *Ratatouille*
