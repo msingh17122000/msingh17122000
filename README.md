@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Manpreet Singh</h1>
-<h3 align="center">MERN Stack Developer from India</h3>
+# 👋 Hi, I'm Manpreet Singh
 
-- 🔭 I’m currently working on my Startup Clothing Brand [www.elitetailors.in](www.elitetailors.in)
+---
 
+## 🌟 About Me
+
+I’m a passionate **designer and developer** who loves creating beautiful, user-friendly experiences.  
+From designing sleek interfaces to building robust applications, I enjoy turning ideas into reality.
+
+---
