@@ -5,9 +5,10 @@ I’m a **designer and developer** who loves creating beautiful, user-friendly e
 From designing minimal interfaces to building creative & robust web applications, I enjoy turning ideas into reality.<br/>
 Oh, and I’m all about **minimalism** — simplicity inspires me!
 
+🔭 I’m currently working on building a startup clothing brand called [Elite Tailors](http://elitetailors.in).  
+Feel free to check out the website and give me feedback for improvements!
+
 ### 🔖 My Favourite Movie Quote
 > "Anyone can cook, but only the fearless can be great."  
 > — *Ratatouille*
 
-🔭 I’m currently working on building a startup clothing brand called [Elite Tailors](http://elitetailors.in).  
-Feel free to check out the website and give me feedback for improvements!
