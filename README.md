@@ -8,3 +8,6 @@ Oh, and I’m all about **minimalism** — simplicity inspires me!
 ### 🔖 My Favourite Movie Quote
 > "Anyone can cook, but only the fearless can be great."  
 > — *Ratatouille*
+
+🔭 I’m currently working on building a startup clothing brand called [Elite Tailors](http://elitetailors.in).  
+Feel free to check out the website and give me feedback for improvements!
