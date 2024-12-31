@@ -19,14 +19,14 @@ Feel free to check out the website and give me feedback for improvements!
 
 My tech stack **ain't that great**, but here's what I use to build awesome things:
 
-- **React.js** for UI
-- **Node.js & Express.js** for server-side
-- **MongoDB** for database
+- ![React](https://img.icons8.com/color/48/000000/react.png) **React.js** for UI
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js & Express.js** for server-side
+- ![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png) **MongoDB** for database
 
 ### 🛠 Tools
 
-- **Figma** for design
-- **Postman** for API testing
-- **MongoDB Compass** for database management
+- ![Figma](https://img.icons8.com/color/48/000000/figma.png) **Figma** for design
+- ![Postman](https://img.icons8.com/ios/50/000000/postman-api.png) **Postman** for API testing
+- ![Compass](https://img.icons8.com/ios/50/000000/mongodb-compass.png) **MongoDB Compass** for database management
 
 I keep things simple, but they work! ✨
