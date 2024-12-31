@@ -6,6 +6,7 @@ From designing minimal interfaces to building creative & robust web applications
 Oh, and I’m all about **minimalism** — simplicity inspires me!
 
 ### 🔖 My Favourite Movie Quote
-
-> "Anyone can cook, but only the fearless can be great."  
-> — *Ratatouille*
+<div style="background-color: black; color: white; padding: 10px; border-radius: 5px;">
+  <p>"Anyone can cook, but only the fearless can be great."</p>
+  <p>— <i>Ratatouille</i></p>
+</div>
